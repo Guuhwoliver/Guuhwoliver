@@ -9,7 +9,7 @@
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=black)
 
-[![GitHub Streak][![GitHub Streak](https://streak-stats.demolab.com?user=Guuhwoliver&theme=blue-green&border_radius=10.6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=803197&background=55%2C000000%2C3644A2&border=652179&stroke=000219&ring=984086&currStreakNum=93908F&sideNums=6A6A6A&currStreakLabel=FFFFFF&sideLabels=FFF8F8&dates=FFFFFF&excludeDaysLabel=139810)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Guuhwoliver&theme=blue-green&border_radius=10.6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=803197&background=55%2C000000%2C3644A2&border=652179&stroke=000219&ring=984086&currStreakNum=93908F&sideNums=6A6A6A&currStreakLabel=FFFFFF&sideLabels=FFF8F8&dates=FFFFFF&excludeDaysLabel=139810)](https://git.io/streak-stats)
 
 
 ### Tecnologias e Ferramentas em desenvolvimentos nos meus dias de estudos
@@ -17,6 +17,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=HTML5&logoColor=)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=CSS3&logoColor=2CA5E0)
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=GIT&logoColor=)
+![Python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=PYTHON&logoColor=)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=black)
 
 ### Sistemas Operacionais, Store e Entreterimentos
