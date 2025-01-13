@@ -9,7 +9,7 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Guuhwoliver&theme=blue-green&border_radius=10.6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=803197&background=55%2C000000%2C3644A2&border=652179&stroke=000219&ring=984086&currStreakNum=93908F&sideNums=6A6A6A&currStreakLabel=FFFFFF&sideLabels=FFF8F8&dates=FFFFFF&excludeDaysLabel=139810)
+![GitHub Streak][def]
 
 
 ### Tecnologias e Ferramentas em desenvolvimentos nos meus dias de estudos
@@ -30,3 +30,6 @@
 ![Nvidia](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 Apaixonado por tecnologia, aprender e acreditar na mudança do mundo através da tecnologia.
+
+
+[def]: https://streak-stats.demolab.com?user=Guuhwoliver&theme=blue-green&border_radius=10.6&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=803197&background=55%2C000000%2C3644A2&border=652179&stroke=000219&ring=984086&currStreakNum=93908F&sideNums=6A6A6A&currStreakLabel=FFFFFF&sideLabels=FFF8F8&dates=FFFFFF&excludeDaysLabel=139810
