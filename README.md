@@ -9,7 +9,7 @@
 
 
 
-![GitHub Streak][def]
+[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=highcontrast&hide_border=verdadeiro&border_radius=5&locale=pt_BR&short_numbers=verdadeiro&date_format=%5BY%20%5DM%20j&mode=weekly&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 
 ### Tecnologias e Ferramentas em desenvolvimentos nos meus dias de estudos
